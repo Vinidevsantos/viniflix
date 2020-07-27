@@ -1,17 +1,17 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Alura",
+      "link": "https://www.alura.com.br/",
+      "cor": "#2a7ae4",
       "link_extra": {
         "text": "Formação de Front End na Alura",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Imersão React Live #01 - Analisando o front-end do Netflix, do Spotify e do Ifood",
+          "url": "https://www.youtube.com/watch?v=Dcn-tVmSxyU&t=2229s"
         },
         {
           "titulo": "SEO com React",
@@ -44,58 +44,58 @@
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Rocketseat",
+      "cor": "#7159c1",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "programadores em busca do próximo nível 🚀",
+        "url": "https://rocketseat.com.br/"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Freelancer, Síndrome do Impostor, Site para Portfólio? Tempo e Foco | #PR 12",
+          "url": "https://www.youtube.com/watch?v=hka7ay9F1kk"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Validação de forms customizada com HTML e JavaScript | Code/Drops #32",
+          "url": "https://www.youtube.com/watch?v=GTMEuHxh8aQ"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Freelancer, Síndrome do Impostor, Site para Portfólio? Tempo e Foco | #PR 12",
+          "url": "https://www.youtube.com/watch?v=hka7ay9F1kk"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Carreira e Mercado | Melhores Momentos S01 Podcast FalaDev",
+          "url": "https://www.youtube.com/watch?v=nYLd-i4KA1o"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Consumindo APIs no React com SWR | Code/Drops #38",
+          "url": "https://www.youtube.com/watch?v=Pbs1VIwPoRA"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Filipe Deschamps",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Vou deixar você apaixonado por programação! Vídeo toda segunda às 11h!",
+        "url": "https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Um júnior já deveria saber como reduzir a quantidade de IFs de um código (e você, sabe?)",
+          "url": "https://www.youtube.com/watch?v=Lf3ZV0UsnEo"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Brasileiro programa Inteligência Artificial que aprende a DIRIGIR SOZINHA!!! [Machine Learning]",
+          "url": "https://www.youtube.com/watch?v=iCbks6Q-xfM"
         },
         {
           "titulo": "Melhor forma de aprender Python",
           "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Nova Oportunidade Para Aprender JavaScript, TypeScript, Node.js, React, React Native, HTML, CSS...",
+          "url": "https://www.youtube.com/watch?v=fj_CaYHTPVE"
         }
       ]
     },
