@@ -1,4 +1,7 @@
-
+<h1 align="center">
+    <img alt="Alura" title="Alura" src="https://raw.githubusercontent.com/Vinidevsantos/viniflix/389e20f0ef56c57d1b99af2f96a3db790dafe69c/src/assets/img/alura-logo.svg" width="220px" />
+ <img alt="Imersao" title="Imersao" src="https://raw.githubusercontent.com/Vinidevsantos/viniflix/389e20f0ef56c57d1b99af2f96a3db790dafe69c/src/assets/img/Logo.imersao.react.svg" width="220px" />
+</h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
