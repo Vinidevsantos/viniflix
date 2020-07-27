@@ -4,7 +4,10 @@
 </h1>
 
 
-<img alt="Imersao" title="Imersao" src="https://giphy.com/embed/MaUYkeDFaIEnpurjB0" width="100%" />
+
+<h1>
+    <img alt="" title="" src="https://media1.giphy.com/media/MaUYkeDFaIEnpurjB0/giphy.gif" width="100%" />
+</h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
