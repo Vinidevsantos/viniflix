@@ -6,7 +6,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="/">
-        <img src={Logo} alt="Logo Viniflix" />
+        <img src={Logo} alt="Logo Viniflix" width="100%" />
       </a>
       <p>
         Orgulhosamente criado durante a
