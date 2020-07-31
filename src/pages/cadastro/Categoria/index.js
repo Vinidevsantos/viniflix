@@ -13,9 +13,8 @@ function CadastroCategoria() {
     cor: '',
   };
 
-  const { handleChange, values, clearForm } = useForm(valoresIniciais);
-
   const [categorias, setCategorias] = useState([]);
+  const { handleChange, values, clearForm } = useForm(valoresIniciais);
 
   useEffect(() => {
     const URL_TOP = window.location.hostname.includes('localhost')

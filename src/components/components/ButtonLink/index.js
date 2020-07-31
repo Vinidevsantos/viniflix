@@ -4,7 +4,7 @@ function ButtonLink(props) {
 
   return (
       <a className={props.className} href={props.href}>
-          Novo Video
+          Novo Video1
       </a>
   );
 }
